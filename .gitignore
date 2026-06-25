@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+node_modules/
+dist/
+
+.ipynb_checkpoints/
+.vscode/
+.virtual_documents/
+
+# Data
+backend/data/**
+!backend/data/events/
+!backend/data/events/3869684.json
+!backend/data/events/3869685.json
