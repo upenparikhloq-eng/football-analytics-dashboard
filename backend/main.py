@@ -53,7 +53,8 @@ app.add_middleware(
         "http://localhost:5173",
         "http://localhost:3000",
         "https://football-analytics-dashboard.vercel.app",
-        "https://football-analytics-dashboard-jedh3mnv0-upen-parikh-s-projects.vercel.app"
+        "https://football-analytics-dashboard-jedh3mnv0-upen-parikh-s-projects.vercel.app",
+        "https://football-analytics-dashboard-smoky.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
